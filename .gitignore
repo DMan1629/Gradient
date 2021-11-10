@@ -1,0 +1,11 @@
+
+.classpath
+.project
+*.prefs
+*.iml
+*.class
+*.jar
+target/
+bin/
+src/META-INF/
+*.class
